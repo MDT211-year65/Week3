@@ -1,0 +1,15 @@
+/Users/kittinunchobtham/Documents/MDT211/class2/Grade_And_User/obj/Debug/net6.0/Grade_And_User.csproj.AssemblyReference.cache
+/Users/kittinunchobtham/Documents/MDT211/class2/Grade_And_User/obj/Debug/net6.0/Grade_And_User.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kittinunchobtham/Documents/MDT211/class2/Grade_And_User/obj/Debug/net6.0/Grade_And_User.AssemblyInfoInputs.cache
+/Users/kittinunchobtham/Documents/MDT211/class2/Grade_And_User/obj/Debug/net6.0/Grade_And_User.AssemblyInfo.cs
+/Users/kittinunchobtham/Documents/MDT211/class2/Grade_And_User/obj/Debug/net6.0/Grade_And_User.csproj.CoreCompileInputs.cache
+/Users/kittinunchobtham/Documents/MDT211/class2/Grade_And_User/bin/Debug/net6.0/Grade_And_User
+/Users/kittinunchobtham/Documents/MDT211/class2/Grade_And_User/bin/Debug/net6.0/Grade_And_User.deps.json
+/Users/kittinunchobtham/Documents/MDT211/class2/Grade_And_User/bin/Debug/net6.0/Grade_And_User.runtimeconfig.json
+/Users/kittinunchobtham/Documents/MDT211/class2/Grade_And_User/bin/Debug/net6.0/Grade_And_User.dll
+/Users/kittinunchobtham/Documents/MDT211/class2/Grade_And_User/bin/Debug/net6.0/Grade_And_User.pdb
+/Users/kittinunchobtham/Documents/MDT211/class2/Grade_And_User/obj/Debug/net6.0/Grade_And_User.dll
+/Users/kittinunchobtham/Documents/MDT211/class2/Grade_And_User/obj/Debug/net6.0/refint/Grade_And_User.dll
+/Users/kittinunchobtham/Documents/MDT211/class2/Grade_And_User/obj/Debug/net6.0/Grade_And_User.pdb
+/Users/kittinunchobtham/Documents/MDT211/class2/Grade_And_User/obj/Debug/net6.0/Grade_And_User.genruntimeconfig.cache
+/Users/kittinunchobtham/Documents/MDT211/class2/Grade_And_User/obj/Debug/net6.0/ref/Grade_And_User.dll
